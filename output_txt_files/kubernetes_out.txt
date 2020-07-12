@@ -1,0 +1,20 @@
+./run_kubernetes.sh 
+Error from server (AlreadyExists): pods "semocl" already exists
+NAME        READY   STATUS    RESTARTS   AGE
+aws-proj4   1/1     Running   0          60m
+semocl      1/1     Running   0          15m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+
+------------------------------------
+
+./make_prediction.sh 
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+
+
