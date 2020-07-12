@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/s403o/project4-aws.svg?style=svg)](https://circleci.com/gh/s403o/project4-aws)
 # Operationalize a Machine Learning Microservice API
 in this project i'll Operationalize a Machine Learning Microservice API, deploying a Python flask application that serves out predictions about housing prices through API calls.
 
