@@ -14,7 +14,7 @@ in this project i'll Operationalize a Machine Learning Microservice API, deployi
  2. Run a Container & Make a Prediction 
  3. Logging in the docker_out.txt file
 
-## 3. k8s
+## 3. Kubernetes(k8s)
 
  1. Configure Kubernetes to Run Locally 
  2. Deploy with Kubernetes
