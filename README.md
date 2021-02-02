@@ -1,7 +1,6 @@
-[![CircleCI](https://circleci.com/gh/s403o/project4-aws.svg?style=svg)](https://circleci.com/gh/s403o/project4-aws)
-# Operationalize a Machine Learning Microservice API
-in this project i'll Operationalize a Machine Learning Microservice API, deploying a Python flask application that serves out predictions about housing prices through API calls.
-
+[![CircleCI](https://circleci.com/gh/s403o/Containerize-a-ML-Microservice-API.svg?style=svg)](https://circleci.com/gh/s403o/Containerize-a-ML-Microservice-API)
+# Containerize a Machine Learning Microservice API
+Operationalizing microservices by deploying an elastic and fault-tolerant Machine Learning inference API (Flask app) using Kubernetes.
 ## 1. Creation and activation of the environment
 
  1. Docker installation
@@ -21,4 +20,4 @@ in this project i'll Operationalize a Machine Learning Microservice API, deployi
  3. Savings Output logs in the file kubernetes.out.txt
  
  ## 4. CircleCI Integration
-  [![CircleCI](https://circleci.com/gh/s403o/project4-aws.svg?style=shield)](https://circleci.com/gh/s403o/project4-aws)
+  [![CircleCI](https://circleci.com/gh/s403o/Containerize-a-ML-Microservice-API.svg?style=shield)](https://circleci.com/gh/s403o/Containerize-a-ML-Microservice-API)
